@@ -25,10 +25,10 @@ namespace Brokkr
         m_VulkanContext.Initialize(pWindowHandle->GetWindowName().c_str(), GAP311::VulkanWrapper::CreateVulkanSurfaceSDL(pWindowHandle->GetWindow()), {});
         m_ShaderLibrary.Initialize(m_VulkanContext.GetDevice(), {});
 
-        CreatePipeline();
+        CreatePipelines();
     }
 
-    void VulkanRenderer::CreatePipeline()
+    void VulkanRenderer::CreatePipelines()
     {
 
 		vk::PolygonMode meshPolygonMode = vk::PolygonMode::eFill;

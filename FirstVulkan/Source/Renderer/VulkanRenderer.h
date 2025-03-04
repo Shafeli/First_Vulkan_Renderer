@@ -44,7 +44,7 @@ namespace Brokkr
 
         void Init(const std::string& argv, Brokkr::WindowHandle* pWindowHandle);    // Initialize Vulkan
 
-        void CreatePipeline();
+        void CreatePipelines();
 
         VkDevice_T* GetDevice()
         {
