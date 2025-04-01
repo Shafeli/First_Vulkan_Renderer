@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\imgui.obj",
+            "outputs": [
+                "x64\\Debug\\imgui.h_7471EA35B72D0C5D.ifc.dt.module.json",
+                "x64\\Debug\\imgui.h_7471EA35B72D0C5D.ifc.dt.d.json",
+                "x64\\Debug\\imgui.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "F:\\SideProjects\\C++_Scratch\\FirstVulkan\\FirstVulkan\\thirdparty\\imgui-1.91.0\\imgui.h",
+                    "source-path": "f:\\sideprojects\\c++_scratch\\firstvulkan\\firstvulkan\\thirdparty\\imgui-1.91.0\\imgui.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\imgui_impl_sdl2.obj",
+            "outputs": [
+                "x64\\Debug\\imgui_impl_sdl2.h_2E9CA10996608271.ifc.dt.module.json",
+                "x64\\Debug\\imgui_impl_sdl2.h_2E9CA10996608271.ifc.dt.d.json",
+                "x64\\Debug\\imgui_impl_sdl2.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "F:\\SideProjects\\C++_Scratch\\FirstVulkan\\FirstVulkan\\thirdparty\\imgui-1.91.0\\backends\\imgui_impl_sdl2.h",
+                    "source-path": "f:\\sideprojects\\c++_scratch\\firstvulkan\\firstvulkan\\thirdparty\\imgui-1.91.0\\backends\\imgui_impl_sdl2.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

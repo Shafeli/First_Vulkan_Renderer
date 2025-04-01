@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\imgui_impl_sdl2.h.obj",
+            "outputs": [
+                "F:\\SideProjects\\C++_Scratch\\FirstVulkan\\FirstVulkan\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "F:\\SideProjects\\C++_Scratch\\FirstVulkan\\FirstVulkan\\x64\\Debug\\imgui_impl_sdl2.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "F:\\SideProjects\\C++_Scratch\\FirstVulkan\\thirdparty\\imgui-1.91.0\\backends\\imgui_impl_sdl2.h",
+                    "source-path": "f:\\sideprojects\\c++_scratch\\firstvulkan\\thirdparty\\imgui-1.91.0\\backends\\imgui_impl_sdl2.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,6 +1,7 @@
 #include "VulkanRenderer.h"
 
 #include <glm/ext/matrix_transform.hpp>
+#include "../WindowHandle/WindowHandle.h"
 
 namespace Brokkr
 {
